@@ -4,4 +4,5 @@
     The second project is the accidents in barcelona
     
 ## Data preparation
-    Remo
+    Removing duplicates
+    Combining some columns where necessary
