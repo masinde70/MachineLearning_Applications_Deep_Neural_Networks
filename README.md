@@ -6,3 +6,5 @@
 ## Data preparation in Barcelona Project
     Removing duplicates
     Combining some columns where necessary
+    
+## Data cleaning
