@@ -9,4 +9,4 @@
     
 ## Data cleaning
     Data cleaning with pandas
-    The cleaning is done in Barcelona data analytics
+    The cleaning is done in Barcelona data analytics, Pandas learning 
